@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+build/
+dist/
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# Project Specific
+分析结果/
+*.log
+*.tmp
+*.bak
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini

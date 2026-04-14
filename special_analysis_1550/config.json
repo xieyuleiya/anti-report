@@ -1,0 +1,12 @@
+{
+  "BASE_DIR": "D:\\useful\\01-work file\\07.报告\\20250801-报告-云茂1550报告",
+  "PERIOD_NAME": "1月月报",
+  "EXCEL_PATH": "",
+  "TEMPLATE_PATH": "",
+  "TARGET_HIGHWAYS": [
+    "云茂"
+  ],
+  "START_DATE": "2026-01-01",
+  "END_DATE": "2026-01-01",
+  "BATCH_SIZE_DAYS": 31
+}
